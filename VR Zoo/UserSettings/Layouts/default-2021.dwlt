@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 257.59998
     height: 722.8
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -456,13 +456,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models/Structures
+    - Assets/Models/Structures/Walls
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 62
   m_LastFolders:
-  - Assets/Models/Structures
+  - Assets/Models/Structures/Walls
   m_LastFoldersGridSize: 62
   m_LastProjectPath: C:\Users\Administrator\OneDrive\Documents\3D modelling\VR-Zoo\VR
     Zoo
@@ -470,9 +470,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 30}
-    m_SelectedIDs: da610000
-    m_LastClickedID: 25050
-    m_ExpandedIDs: 000000004c6100004e6100005061000052610000
+    m_SelectedIDs: c0620000
+    m_LastClickedID: 25280
+    m_ExpandedIDs: 00000000c0610000c2610000c4610000c661000078620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -500,7 +500,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004c6100004e6100005061000052610000
+    m_ExpandedIDs: 00000000c0610000c2610000c4610000c6610000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -528,7 +528,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000427d0000ee950000ea96000030970000da6500001c660000a0680000c06800001c6e0000bc810000208600007e9500004c960000d2720000f8740000847300002c63000080630000146300001a6300003c6300000a730000
+    m_ExpandedInstanceIDs: c6230000427d0000ee950000ea96000030970000da6500001c660000a0680000c06800001c6e0000bc810000208600007e9500004c960000d2720000f8740000847300002c63000080630000146300001a6300003c6300000a730000ce620000c6620000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 3007ffff
-      m_LastClickedID: -63696
-      m_ExpandedIDs: 3007ffff3207ffffac09ffffae09ffff9e15ffffdc15ffffaa21ffff5223ffff9e23ffff3024ffff7624ffff4830ffff0e3cffffc83cffff0e3dfffff649ffff804affff5e4fffffd04fffff9e5bffffc0a7ffff24a8ffff4cacffffbccfffff16e5ffff18e5ffff94e5ffff10e6ffff3af2ffff2efbffff5aa8000026bb0000bebd0000eabd0000
+      m_SelectedIDs: 2cfbffff
+      m_LastClickedID: -1236
+      m_ExpandedIDs: 0edbffff2cfbffff2efbfffff0600000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -918,9 +918,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -52.09969, y: -27.356728, z: 6.5325336}
+    m_Target: {x: -8.909382, y: 3.6225843, z: 9.052668}
     speed: 2
-    m_Value: {x: -52.09969, y: -27.356728, z: 6.5325336}
+    m_Value: {x: -8.909382, y: 3.6225843, z: 9.052668}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -967,20 +967,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.16518557, y: -0.7858507, z: 0.23741654, w: 0.5466746}
+    m_Target: {x: 0.1229092, y: -0.77845097, z: 0.16104448, w: 0.5941179}
     speed: 2
-    m_Value: {x: 0.16546282, y: -0.7896293, z: 0.24244146, w: 0.53882265}
+    m_Value: {x: 0.124286056, y: -0.77642167, z: 0.16183951, w: 0.59626365}
   m_Size:
-    m_Target: 40.808453
+    m_Target: 21.309147
     speed: 2
-    m_Value: 40.354465
+    m_Value: 21.072086
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1.2103949
-    m_SpeedNormalized: 0.6049999
+    m_Speed: 1.1954023
+    m_SpeedNormalized: 0.5974999
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
