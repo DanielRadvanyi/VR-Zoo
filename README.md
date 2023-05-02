@@ -7,7 +7,6 @@ VR Zoo project made in Unity for a 3D modelling course.
   - Enclosure interiors
   - Teleportation anchors
   - Info panels
-  - (Make glasses united)
 - Sounds
   - Get more sound files
 - Animation
