@@ -53,3 +53,6 @@ VR Zoo project made in Unity for a 3D modelling course.
   - [Elephant](https://sketchfab.com/3d-models/elephant-non-commercial-2e3a1a3358374a5bb55f7e9a65d5eefb)
   - [Elephant LP](https://sketchfab.com/3d-models/elephant-888cb879964e4b248f83a42624c0f973)
   - [Elephant 3](https://sketchfab.com/3d-models/elephant-93c389f9be37411c9ae4e97ef08bbeee)
+
+- Sources
+  - [Panel infos](https://kids.nationalgeographic.com/)
