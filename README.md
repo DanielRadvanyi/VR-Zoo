@@ -47,8 +47,9 @@ VR Zoo project made in Unity for a 3D modelling course.
 - Pieces of meat
 - Balls/toys
 - Net?
-- Rocks
+- [Rocks](https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947)
 - Scratching pole/tree
+- [Bird Cage](https://www.turbosquid.com/3d-models/horror-styled-birdcage-model-1147042)
 ### Arctic
 - Snowpiles
 - Add water to island model
@@ -60,7 +61,10 @@ VR Zoo project made in Unity for a 3D modelling course.
 - Patches of grass
 - Hay
 - Usual trees
+### Extras
+- [Boat](https://www.turbosquid.com/3d-models/3d-model-painted-wooden-boat-v3-1850170)
 
 ## Sources
   - [Panel infos](https://kids.nationalgeographic.com/)
+  - [Further panel infos](https://animalia.bio/)
   - [Sounds](https://pixabay.com/)
