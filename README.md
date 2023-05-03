@@ -43,25 +43,36 @@ VR Zoo project made in Unity for a 3D modelling course.
 
 ## Enclosure elements:
 ### General
-- Bowls
-- Pieces of meat
-- Balls/toys
-- Net?
+- [Bowl](https://sketchfab.com/3d-models/dog-bowl-3fc962f14b994f81a5924f9b100dcb2f) 6k
+- [Pieces of meat](https://sketchfab.com/3d-models/meat-raw-rib-game-ready-model-7239ceff0bbf4510afe08656553978e0) 2.7k
+- [Old ball](https://sketchfab.com/3d-models/tropical-plant-3ee280726f1f496e9b2377d43b4cbb2d) 0.8k
+- [Tennis ball](https://sketchfab.com/3d-models/tennis-ball-edc344dcc65440ea97b5eae84f1957a4) 1.5k
 - [Rocks](https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947)
-- Scratching pole/tree
+- [Rock1](https://sketchfab.com/3d-models/a-simple-rock-bcfc084c997f4c019d404bb92dcc4d2c) 0.3k
+- [Rock2](https://sketchfab.com/3d-models/obj-nat-rock-01-62d63fd7d1dd416aac1496eb19c43cc0) 1.1k
+- [Rock3](https://sketchfab.com/3d-models/rock-b66d5b63deb447299ca3effa904bc789) 14k
+- [Trunk](https://sketchfab.com/3d-models/withered-trunk-thin-b4f59b5387404747858680e79e2670d7) 8.5k
+- [Stump](https://sketchfab.com/3d-models/tree-stump-4e44ed693e17449485d5d6c56bd83676) 1.8k
 - [Bird Cage](https://www.turbosquid.com/3d-models/horror-styled-birdcage-model-1147042)
 ### Arctic
-- Snowpiles
-- Add water to island model
-- Pines (with place for owls)
+- [Pine1](https://sketchfab.com/3d-models/stylized-pine-8a654cc7f8394416b8148f3de488453e) 3.5k
+- [Pine2](https://sketchfab.com/3d-models/pine-tree-d45218a3fab349e5b1de040f29e7b6f9) 5.6k
+- [Pine3](https://sketchfab.com/3d-models/realistic-pine-d0937b7682e74e359a7b00dbc73d03b7) 477k
 ### Tropical
-- Tropical greens
-- Ttropical trees (with place for parrots)
+- [Tropical pack](https://sketchfab.com/3d-models/tropical-plants-pack-m02p-2f093afb792742438f0f7ba7eaab90f0) 47k
+- [Fern](https://sketchfab.com/3d-models/fern-bush-864be1101df6491e8f11549dec007f0a) 200
+- [Tropical plant](https://sketchfab.com/3d-models/tropical-plant-3ee280726f1f496e9b2377d43b4cbb2d) 1.4k
+- [Coconut trees](https://sketchfab.com/3d-models/coconut-palm-26e787f2ff2e4c0fb004c3b0210805a3) 7.4k
+- [Coconut](https://sketchfab.com/3d-models/coconut-b68fd365187f45cf843e316d2ea23260) 1.7k
 ### Temperate
-- Patches of grass
-- Hay
-- Usual trees
-### Extras
+- [Tree](https://sketchfab.com/3d-models/realistic-tree-vol2-736ac8ccedcb41288d81adafae44f4ad) 1.6k
+- [Grass patch](https://sketchfab.com/3d-models/grass-patches-7b65ce8bc0514c75b4243c5251cd5984) 2k
+- [Bush](https://sketchfab.com/3d-models/thyme-bush-f2c0533f2bd247b5adecf6854ae68fab) 2.9k
+- [Haypile](https://sketchfab.com/3d-models/pile-of-hay-or-straw-93eb7ffe871e460fb108493750bc83d8) 5.6k
+- [Haystack](https://sketchfab.com/3d-models/haystack-f9e0ae0859fa4e71a2d7dbe55810c1a8) 1.4k
+### Extras/Other
+- [Reeds](https://sketchfab.com/3d-models/reed-plants-pack-bc77ea5218e44f2dbc23b2a4aef0c898) 1.6k
+- [Water Lily](https://sketchfab.com/3d-models/water-lily-nymphaea-odorata-4c793ce129424a1aa8e05aef5838e269) 78k
 - [Boat](https://www.turbosquid.com/3d-models/3d-model-painted-wooden-boat-v3-1850170)
 
 ## Sources
