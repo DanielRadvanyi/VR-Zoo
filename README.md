@@ -50,17 +50,17 @@ VR Zoo project made in Unity for a 3D modelling course.
 - [Rocks](https://assetstore.unity.com/packages/3d/props/exterior/rock-and-boulders-2-6947)
 - [Rock1](https://sketchfab.com/3d-models/a-simple-rock-bcfc084c997f4c019d404bb92dcc4d2c) 0.3k Imported
 - [Rock2](https://sketchfab.com/3d-models/obj-nat-rock-01-62d63fd7d1dd416aac1496eb19c43cc0) 1.1k Imported
-- [Rock3](https://sketchfab.com/3d-models/rock-b66d5b63deb447299ca3effa904bc789) 14k
+- [Rock3](https://sketchfab.com/3d-models/rock-b66d5b63deb447299ca3effa904bc789) 14k Imported
 - [Trunk](https://sketchfab.com/3d-models/withered-trunk-thin-b4f59b5387404747858680e79e2670d7) 8.5k Imported
-- [Stump](https://sketchfab.com/3d-models/tree-stump-4e44ed693e17449485d5d6c56bd83676) 1.8k
+- [Stump](https://sketchfab.com/3d-models/tree-stump-4e44ed693e17449485d5d6c56bd83676) 1.8k Imported
 - [Bird Cage](https://www.turbosquid.com/3d-models/horror-styled-birdcage-model-1147042)
 ### Arctic
 - [Pine1](https://sketchfab.com/3d-models/stylized-pine-8a654cc7f8394416b8148f3de488453e) 3.5k Opacity map issue
 - [Pine2](https://sketchfab.com/3d-models/pine-tree-d45218a3fab349e5b1de040f29e7b6f9) 5.6k Imported
 ### Tropical
-- [Tropical pack](https://sketchfab.com/3d-models/tropical-plants-pack-m02p-2f093afb792742438f0f7ba7eaab90f0) 47k
+- [Tropical pack](https://sketchfab.com/3d-models/tropical-plants-pack-m02p-2f093afb792742438f0f7ba7eaab90f0) 47k Imported
 - [Fern](https://sketchfab.com/3d-models/fern-bush-864be1101df6491e8f11549dec007f0a) 200 Imported
-- [Tropical plant](https://sketchfab.com/3d-models/tropical-plant-3ee280726f1f496e9b2377d43b4cbb2d) 1.4k
+- [Tropical plant](https://sketchfab.com/3d-models/tropical-plant-3ee280726f1f496e9b2377d43b4cbb2d) 1.4k Improted
 - [Coconut trees](https://sketchfab.com/3d-models/coconut-palm-26e787f2ff2e4c0fb004c3b0210805a3) 7.4k Imported
 - [Coconut](https://sketchfab.com/3d-models/coconut-b68fd365187f45cf843e316d2ea23260) 1.7k Imported
 ### Temperate
