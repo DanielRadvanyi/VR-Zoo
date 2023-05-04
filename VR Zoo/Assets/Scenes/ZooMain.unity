@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.28932217, g: 0.33863696, b: 0.48811552, a: 1}
+  m_IndirectSpecularColor: {r: 0.2893222, g: 0.33863693, b: 0.48811558, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1094,6 +1094,7 @@ GameObject:
   - component: {fileID: 37627105}
   - component: {fileID: 37627104}
   - component: {fileID: 37627103}
+  - component: {fileID: 37627107}
   m_Layer: 0
   m_Name: Teleportation Anchor (6)
   m_TagString: Untagged
@@ -1272,6 +1273,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 37627101}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &37627107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 37627101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &47559106
 GameObject:
   m_ObjectHideFlags: 0
@@ -1618,6 +1633,7 @@ GameObject:
   - component: {fileID: 61059756}
   - component: {fileID: 61059755}
   - component: {fileID: 61059754}
+  - component: {fileID: 61059758}
   m_Layer: 0
   m_Name: Teleportation Anchor (14)
   m_TagString: Untagged
@@ -1796,6 +1812,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 61059752}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &61059758
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 61059752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &62566404
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2180,6 +2210,7 @@ GameObject:
   - component: {fileID: 87862946}
   - component: {fileID: 87862945}
   - component: {fileID: 87862944}
+  - component: {fileID: 87862948}
   m_Layer: 0
   m_Name: Teleportation Anchor (20)
   m_TagString: Untagged
@@ -2358,6 +2389,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 87862942}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &87862948
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 87862942}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &88904718
 GameObject:
   m_ObjectHideFlags: 0
@@ -3460,6 +3505,7 @@ GameObject:
   - component: {fileID: 141067771}
   - component: {fileID: 141067770}
   - component: {fileID: 141067769}
+  - component: {fileID: 141067773}
   m_Layer: 0
   m_Name: Teleportation Anchor (15)
   m_TagString: Untagged
@@ -3638,6 +3684,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 141067767}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &141067773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 141067767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &142640517
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4646,6 +4706,7 @@ GameObject:
   - component: {fileID: 189779633}
   - component: {fileID: 189779632}
   - component: {fileID: 189779631}
+  - component: {fileID: 189779635}
   m_Layer: 0
   m_Name: Teleportation Anchor (7)
   m_TagString: Untagged
@@ -4824,6 +4885,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 189779629}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &189779635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 189779629}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &190100803
 GameObject:
   m_ObjectHideFlags: 0
@@ -9338,7 +9413,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 17
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -12659,6 +12734,7 @@ GameObject:
   - component: {fileID: 500117238}
   - component: {fileID: 500117237}
   - component: {fileID: 500117236}
+  - component: {fileID: 500117240}
   m_Layer: 0
   m_Name: Teleportation Anchor (16)
   m_TagString: Untagged
@@ -12837,6 +12913,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 500117234}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &500117240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 500117234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &504015564
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12925,6 +13015,7 @@ GameObject:
   - component: {fileID: 505205809}
   - component: {fileID: 505205808}
   - component: {fileID: 505205807}
+  - component: {fileID: 505205811}
   m_Layer: 0
   m_Name: Teleportation Anchor (21)
   m_TagString: Untagged
@@ -13103,6 +13194,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 505205805}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &505205811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 505205805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &507803113
 GameObject:
   m_ObjectHideFlags: 0
@@ -13116,6 +13221,7 @@ GameObject:
   - component: {fileID: 507803117}
   - component: {fileID: 507803116}
   - component: {fileID: 507803115}
+  - component: {fileID: 507803119}
   m_Layer: 0
   m_Name: Teleportation Anchor (18)
   m_TagString: Untagged
@@ -13294,6 +13400,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 507803113}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &507803119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 507803113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &508800866
 GameObject:
   m_ObjectHideFlags: 0
@@ -16335,6 +16455,7 @@ GameObject:
   - component: {fileID: 636210574}
   - component: {fileID: 636210573}
   - component: {fileID: 636210572}
+  - component: {fileID: 636210576}
   m_Layer: 0
   m_Name: Teleportation Anchor (24)
   m_TagString: Untagged
@@ -16513,6 +16634,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 636210570}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &636210576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 636210570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &640426977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17388,7 +17523,7 @@ PrefabInstance:
     - target: {fileID: 6524535944957061580, guid: 56bdc5e26cb572b4fa9270b2f3573307,
         type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 6524535944957061580, guid: 56bdc5e26cb572b4fa9270b2f3573307,
         type: 3}
@@ -17461,6 +17596,7 @@ GameObject:
   - component: {fileID: 671330362}
   - component: {fileID: 671330361}
   - component: {fileID: 671330360}
+  - component: {fileID: 671330364}
   m_Layer: 0
   m_Name: Teleportation Anchor (11)
   m_TagString: Untagged
@@ -17639,6 +17775,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 671330358}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &671330364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 671330358}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &679184572
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19317,7 +19467,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 19
+      value: 18
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -20237,7 +20387,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -21442,7 +21592,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
@@ -21741,6 +21891,7 @@ GameObject:
   - component: {fileID: 835588563}
   - component: {fileID: 835588562}
   - component: {fileID: 835588561}
+  - component: {fileID: 835588565}
   m_Layer: 0
   m_Name: Teleportation Anchor (27)
   m_TagString: Untagged
@@ -21919,6 +22070,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 835588559}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &835588565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 835588559}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &840406246
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -23604,7 +23769,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1bd944509236e504e9ebda8f21bd0028, type: 2}
+  - {fileID: 2100000, guid: c8e2b63ed9fe018419e6778f5ee216a8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -23814,7 +23979,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
@@ -23997,6 +24162,7 @@ GameObject:
   - component: {fileID: 928760923}
   - component: {fileID: 928760922}
   - component: {fileID: 928760921}
+  - component: {fileID: 928760925}
   m_Layer: 0
   m_Name: Teleportation Anchor (4)
   m_TagString: Untagged
@@ -24175,6 +24341,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 928760919}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &928760925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 928760919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &929389354
 GameObject:
   m_ObjectHideFlags: 0
@@ -24753,6 +24933,7 @@ GameObject:
   - component: {fileID: 951086825}
   - component: {fileID: 951086824}
   - component: {fileID: 951086823}
+  - component: {fileID: 951086827}
   m_Layer: 0
   m_Name: Teleportation Anchor (5)
   m_TagString: Untagged
@@ -24931,6 +25112,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 951086821}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &951086827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951086821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &953698050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25521,7 +25716,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -25939,7 +26134,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1bd944509236e504e9ebda8f21bd0028, type: 2}
+  - {fileID: 2100000, guid: aa2c14dd1e8df8e4e932765635f702b9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -26245,6 +26440,7 @@ GameObject:
   - component: {fileID: 993204483}
   - component: {fileID: 993204482}
   - component: {fileID: 993204481}
+  - component: {fileID: 993204485}
   m_Layer: 0
   m_Name: Teleportation Anchor (13)
   m_TagString: Untagged
@@ -26423,6 +26619,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 993204479}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &993204485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 993204479}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &994479360
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28378,6 +28588,7 @@ GameObject:
   - component: {fileID: 1051723016}
   - component: {fileID: 1051723015}
   - component: {fileID: 1051723014}
+  - component: {fileID: 1051723018}
   m_Layer: 0
   m_Name: Teleportation Anchor (3)
   m_TagString: Untagged
@@ -28556,6 +28767,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1051723012}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1051723018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1051723012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1055022337
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28785,6 +29010,7 @@ GameObject:
   - component: {fileID: 1061064718}
   - component: {fileID: 1061064717}
   - component: {fileID: 1061064716}
+  - component: {fileID: 1061064720}
   m_Layer: 0
   m_Name: Teleportation Anchor (12)
   m_TagString: Untagged
@@ -28963,6 +29189,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1061064714}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1061064720
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1061064714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &1065019019
 GameObject:
   m_ObjectHideFlags: 0
@@ -29885,7 +30125,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 6937cffd841481742ada21007b16fa7c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 6937cffd841481742ada21007b16fa7c,
         type: 3}
@@ -30124,8 +30364,8 @@ Rigidbody:
   m_GameObject: {fileID: 1097078558}
   serializedVersion: 2
   m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
+  m_Drag: 0.5
+  m_AngularDrag: 0.5
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
@@ -30817,7 +31057,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
@@ -34786,6 +35026,7 @@ GameObject:
   - component: {fileID: 1226524298}
   - component: {fileID: 1226524297}
   - component: {fileID: 1226524296}
+  - component: {fileID: 1226524300}
   m_Layer: 0
   m_Name: Teleportation Anchor (2)
   m_TagString: Untagged
@@ -34964,6 +35205,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1226524294}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1226524300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1226524294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1228681977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35332,6 +35587,7 @@ GameObject:
   - component: {fileID: 1243260062}
   - component: {fileID: 1243260061}
   - component: {fileID: 1243260060}
+  - component: {fileID: 1243260064}
   m_Layer: 0
   m_Name: Teleportation Anchor (19)
   m_TagString: Untagged
@@ -35510,6 +35766,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1243260058}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1243260064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1243260058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1244725856
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36555,7 +36825,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 13
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -37065,7 +37335,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
@@ -38151,7 +38421,7 @@ PrefabInstance:
     - target: {fileID: 6524535944957061580, guid: 56bdc5e26cb572b4fa9270b2f3573307,
         type: 3}
       propertyPath: m_RootOrder
-      value: 21
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 6524535944957061580, guid: 56bdc5e26cb572b4fa9270b2f3573307,
         type: 3}
@@ -38400,6 +38670,26 @@ Transform:
   m_Father: {fileID: 692942866}
   m_RootOrder: 26
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: 0}
+--- !u!1 &1327050918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -674449036139524865, guid: 51401ae38e15e0244a3e975ea32932aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 1320282571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1327050922
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327050918}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 1453043773871479701, guid: 51401ae38e15e0244a3e975ea32932aa, type: 3}
 --- !u!1001 &1333644791
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38842,7 +39132,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -42592,7 +42882,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -43535,6 +43825,7 @@ GameObject:
   - component: {fileID: 1526866128}
   - component: {fileID: 1526866127}
   - component: {fileID: 1526866126}
+  - component: {fileID: 1526866130}
   m_Layer: 0
   m_Name: Teleportation Anchor (17)
   m_TagString: Untagged
@@ -43713,6 +44004,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526866124}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1526866130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1526866124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1529676417
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -44353,7 +44658,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 50e0f08e2cd265646b1de7a6df7f4871,
         type: 3}
@@ -46345,7 +46650,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 18
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -49301,7 +49606,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 0260605f9829d824e986a2a7ddf6f53a,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 0260605f9829d824e986a2a7ddf6f53a,
         type: 3}
@@ -49386,6 +49691,25 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1772642347}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1772642349 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0260605f9829d824e986a2a7ddf6f53a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1772642347}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1772642350
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1772642349}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.02, y: 0.020000001, z: 0.14000005}
+  m_Center: {x: -0.000000007247745, y: 1.2998498e-10, z: -0.060000006}
 --- !u!1001 &1784466753
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -49968,6 +50292,7 @@ GameObject:
   - component: {fileID: 1802993087}
   - component: {fileID: 1802993086}
   - component: {fileID: 1802993085}
+  - component: {fileID: 1802993089}
   m_Layer: 0
   m_Name: Teleportation Anchor (26)
   m_TagString: Untagged
@@ -50146,6 +50471,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1802993083}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1802993089
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802993083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1804045106
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50254,6 +50593,7 @@ GameObject:
   - component: {fileID: 1805114688}
   - component: {fileID: 1805114687}
   - component: {fileID: 1805114686}
+  - component: {fileID: 1805114690}
   m_Layer: 0
   m_Name: Teleportation Anchor (8)
   m_TagString: Untagged
@@ -50432,6 +50772,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1805114684}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1805114690
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1805114684}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1808957179
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -50690,6 +51044,7 @@ GameObject:
   - component: {fileID: 1821863357}
   - component: {fileID: 1821863356}
   - component: {fileID: 1821863355}
+  - component: {fileID: 1821863359}
   m_Layer: 0
   m_Name: Teleportation Anchor (22)
   m_TagString: Untagged
@@ -50868,6 +51223,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1821863353}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1821863359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1821863353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1823311270
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -51222,6 +51591,7 @@ GameObject:
   - component: {fileID: 1842463929}
   - component: {fileID: 1842463928}
   - component: {fileID: 1842463927}
+  - component: {fileID: 1842463931}
   m_Layer: 0
   m_Name: Teleportation Anchor (23)
   m_TagString: Untagged
@@ -51400,6 +51770,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1842463925}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1842463931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1842463925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1844200341
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52350,6 +52734,7 @@ GameObject:
   - component: {fileID: 1894779202}
   - component: {fileID: 1894779201}
   - component: {fileID: 1894779200}
+  - component: {fileID: 1894779204}
   m_Layer: 0
   m_Name: Teleportation Anchor (9)
   m_TagString: Untagged
@@ -52528,6 +52913,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1894779198}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1894779204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1894779198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1 &1901882623
 GameObject:
   m_ObjectHideFlags: 0
@@ -52700,8 +53099,8 @@ Transform:
   - {fileID: 1123176457}
   - {fileID: 1292021243}
   - {fileID: 1560836478}
-  - {fileID: 1734958843}
   - {fileID: 823143990}
+  - {fileID: 1734958843}
   - {fileID: 912329988}
   - {fileID: 1355716521}
   - {fileID: 772180597}
@@ -53862,6 +54261,7 @@ GameObject:
   - component: {fileID: 1952180187}
   - component: {fileID: 1952180186}
   - component: {fileID: 1952180185}
+  - component: {fileID: 1952180189}
   m_Layer: 0
   m_Name: Teleportation Anchor (28)
   m_TagString: Untagged
@@ -54040,6 +54440,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1952180183}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1952180189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1952180183}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &1955893969
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -55218,7 +55632,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 15
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -55738,7 +56152,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ffe8d582209e4841b5cf6d7a3740ad6,
         type: 3}
@@ -58227,6 +58641,7 @@ GameObject:
   - component: {fileID: 2137738394}
   - component: {fileID: 2137738393}
   - component: {fileID: 2137738392}
+  - component: {fileID: 2137738396}
   m_Layer: 0
   m_Name: Teleportation Anchor (25)
   m_TagString: Untagged
@@ -58405,6 +58820,20 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2137738390}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &2137738396
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137738390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c2ed8b9416d0b04aa01c57bc1994e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  toggleReference: {fileID: 5115110593870983114, guid: c348712bda248c246b8c49b3db54643f,
+    type: 3}
 --- !u!1001 &2139420479
 PrefabInstance:
   m_ObjectHideFlags: 0
