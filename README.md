@@ -5,10 +5,7 @@ VR Zoo project made in Unity for a 3D modelling course.
 - Unity
   - Enclosure interiors
   - Info panels finalizing
-- Sounds
-  - Get more sound files
-- Animation
-  - Swap models for animated ones if possible
+  - Rigidbodies
 
 
 ## Enclosure animals:
