@@ -51,6 +51,8 @@ VR Zoo project made in Unity for a 3D modelling course.
 - [Trunk](https://sketchfab.com/3d-models/withered-trunk-thin-b4f59b5387404747858680e79e2670d7) 8.5k Imported
 - [Stump](https://sketchfab.com/3d-models/tree-stump-4e44ed693e17449485d5d6c56bd83676) 1.8k Imported
 - [Bird Cage](https://www.turbosquid.com/3d-models/horror-styled-birdcage-model-1147042)
+- [Log](https://sketchfab.com/3d-models/wood-branch-670096e893f44431bd9107a08d05e67d) 9.4k
+- [Branch](https://sketchfab.com/3d-models/tree-branch-ad3ba37cc8e946e2a429d1b5c315ce19) 3.3k
 ### Arctic
 - [Pine1](https://sketchfab.com/3d-models/stylized-pine-8a654cc7f8394416b8148f3de488453e) 3.5k Opacity map issue
 - [Pine2](https://sketchfab.com/3d-models/pine-tree-d45218a3fab349e5b1de040f29e7b6f9) 5.6k Imported
